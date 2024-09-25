@@ -2,11 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&weight=500&duration=2500&pause=1500&color=F700E8&center=true&vCenter=true&width=600&height=100&lines=Hey+there+everyone.+Welcome+to+my+workspace+!)](https://git.io/typing-svg)
 <p></p>
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/GustaBrito/GustaBrito/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
 
+<p align="center">I ❤️ solving great challenges using tech. <br><br>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software developer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
+Software developer passionate about solving complex problems through technology. Although I'm just starting out in the field of software development, I've always loved this area. I bring with me a wealth of experience from other leadership and problem-solving roles. I’ve led teams and coordinated projects as a manager at Cloud9 in Ireland, and applied my analytical and logical skills to mechanical engineering while maintaining machinery at Alpack do Brasil. Now, I’m eager to channel all of this experience into my journey in programming.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GustaBrito&theme=radical&mode=weekly" />
