@@ -1,6 +1,6 @@
 ## Perfil em Construção
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&weight=500&duration=2500&pause=1500&color=F700E8&center=true&vCenter=true&width=600&height=100&lines=Hey+there+everyone.+Welcome+to+my+workspace+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Hey+everyone.+Welcome+to+my+workspace!)](https://git.io/typing-svg)
 <p></p>
 
 <p align="center">I ❤️ solving great challenges using tech. <br><br>
