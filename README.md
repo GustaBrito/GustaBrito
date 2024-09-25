@@ -1,7 +1,7 @@
 ## Perfil em Construção
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&weight=500&duration=2500&pause=1500&color=F700E8&center=true&vCenter=true&width=600&height=100&lines=Hey+there+everyone.+Welcome+to+my+workspace+!)](https://git.io/typing-svg)
-<p>----------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p></p>
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/GustaBrito/GustaBrito/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
 &nbsp;&nbsp;&nbsp;
 
