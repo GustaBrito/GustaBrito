@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRkMDc5dzZuN3U5NjhtOXFlamFjZzUzNHNpNDJ1eHFrNDR3YjZlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="150" alt="coding-cat" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlldmRrOXRzeHd5b21yeDZ1NTNrajZkZml0M2lpdmptcDR0aDYxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R82SViBGWcFx8pPyKr/giphy.gif" width="150" alt="coding-cat" />
 </div>
 
 <h1 align="center">🧑‍💻 Seja bem-vindo(a) ao meu GitHub!</h1> 
@@ -9,7 +9,7 @@
 
 ## 🌟 Sobre Mim
 
-<img align="right" alt="dev gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRvbGt0aGxjcXp6MTF2OG0zdGgwYmJ6bHExbGs0azJ0ejZkNnh0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="120" />
+<img align="right" alt="dev gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZmOWwycDBrYnJ6Mng2enczZmJnYjRoYnFrM3c3N212dTNtNDBqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="120" />
 
 Sou o **Gustavo A. G. Brito**, desenvolvedor full stack apaixonado por tecnologia e aprendizado contínuo.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e aplico meus conhecimentos em projetos que unem teoria, prática e propósito.
