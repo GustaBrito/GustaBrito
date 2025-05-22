@@ -27,8 +27,9 @@ Estou sempre em busca de desafios que me impulsionem, me conectem com pessoas in
   <a href="https://wa.me/5514999073939">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
   </a>
-  <a href="https://gustabrito.github.io/Portifolio/">
-    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=github&label=&color=24292e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfólio" />
+    <a href="https://gustabrito.github.io/Portifolio/">
+  <img src="https://img.shields.io/badge/Portfólio-24292e?style=for-the-badge&logo=github&logoColor=white" height="35" alt="Portfólio" />
+</a>
   </a>
 
 </div>
