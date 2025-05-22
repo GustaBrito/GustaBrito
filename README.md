@@ -36,23 +36,13 @@ Estou sempre em busca de desafios que me impulsionem, me conectem com pessoas in
 
 ---
 
-## 🚧 Portfolio in Progress 🚧  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8F0D87&center=true&vCenter=true&width=600&lines=Hello%2C+welcome+to+my+creative+workspace!;I'm+passionate+about+technology+and+challenges!;Let's+build+awesome+things+with+code!)](https://git.io/typing-svg)
-
 <p align="center">
-💡 Software developer in career transition, bringing solid experience in leadership, decision-making, and problem-solving.
-</p>
-
----
-
-<p align="center">
-I’m driven by the challenge of turning ideas into real-world solutions through technology.  
-Although I’m officially starting my career in software development, I’ve always been passionate about logic, innovation, and building efficient solutions.  
+Sou movido pelo desafio de transformar ideias em soluções reais por meio da tecnologia.  
+Embora esteja oficialmente iniciando minha carreira em desenvolvimento de software, sempre fui apaixonado por lógica, inovação e pela construção de soluções eficientes.  
 <br><br>
-With previous experience as a **Manager at Cloud9 (Ireland)** and industrial maintenance technician at **Alpack do Brasil**, I’ve developed skills in team leadership, organization, and critical thinking — now fully applied to the world of programming.  
+Com experiência anterior como **Gerente na Cloud9 (Irlanda)** e técnico de manutenção industrial na **Alpack do Brasil**, desenvolvi habilidades em liderança de equipes, organização e pensamento crítico — agora totalmente aplicadas ao mundo da programação.  
 <br><br>
-Currently, I'm building my portfolio through self-directed projects using technologies like C#, React, APIs, and relational databases. Every commit is a new milestone on my journey to becoming a great developer!
+Atualmente, estou construindo meu portfólio por meio de projetos autodirigidos, utilizando tecnologias como C#, React, APIs e bancos de dados relacionais. Cada commit é um novo marco na minha jornada para me tornar um grande desenvolvedor!
 </p>
 
 ---
@@ -78,7 +68,7 @@ Currently, I'm building my portfolio through self-directed projects using techno
 </picture>
 
 ---
-
+<div aling="center">
 ## 🚀 Technologies & Tools
 
 ### 💻 Main Stack
@@ -111,25 +101,7 @@ Currently, I'm building my portfolio through self-directed projects using techno
 
 ---
 
-## 📬 Get in Touch
-
-<div align="left">
-  <a href="https://www.instagram.com/gustavoag.brito" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:contato.gustavo.adra@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-brito-20291a179/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://gustabrito.github.io/Portifolio/">
-    <img src="https://img.shields.io/badge/-Portfólio-%2312100E?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
----
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 <h3 align="center"><i>Valeu pela visita! Até a próxima 👋🚀</i></h3>
+</div>
