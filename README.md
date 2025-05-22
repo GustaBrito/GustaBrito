@@ -48,23 +48,9 @@ Atualmente, estou construindo meu portfólio por meio de projetos autodirigidos,
 ---
 
 <div align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=GustaBrito&theme=radical&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GustaBrito&show_icons=true&theme=radical&layout=compact" />
-</div>
+## 🚀 Tecnologias & Ferramentas
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-</picture>
-
----
-<div align="center">
-## 🚀 Technologies & Tools
-
-### 💻 Main Stack
+### 💻 Principal
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -72,12 +58,12 @@ Atualmente, estou construindo meu portfólio por meio de projetos autodirigidos,
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### 🔧 Tools & Frameworks
+### 🔧 Ferramentas & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-### 📚 Currently Studying
+### 📚 Estudando atualmente
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
@@ -91,6 +77,21 @@ Atualmente, estou construindo meu portfólio por meio de projetos autodirigidos,
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+---
+
+<div align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=GustaBrito&theme=radical&mode=weekly" />
+  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GustaBrito&show_icons=true&theme=radical&layout=compact" />
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
