@@ -48,13 +48,6 @@ Atualmente, estou construindo meu portfólio por meio de projetos autodirigidos,
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustaBrito&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustaBrito&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<br>
-
-<div align="center">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=GustaBrito&theme=radical&mode=weekly" />
   <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=GustaBrito&show_icons=true&theme=radical&layout=compact" />
 </div>
@@ -68,7 +61,7 @@ Atualmente, estou construindo meu portfólio por meio de projetos autodirigidos,
 </picture>
 
 ---
-<div aling="center">
+<div align="center">
 ## 🚀 Technologies & Tools
 
 ### 💻 Main Stack
